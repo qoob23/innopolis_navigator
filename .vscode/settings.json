@@ -1,0 +1,6 @@
+{
+    "dart.env": {
+        "PUB_HOSTED_URL": "https://pub.dev"
+    },
+    "dart.onlyAnalyzeProjectsWithOpenFiles": false
+}
